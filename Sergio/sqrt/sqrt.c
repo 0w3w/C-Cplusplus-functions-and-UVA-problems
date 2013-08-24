@@ -1,3 +1,16 @@
+/*
+ * Get an int as parameter, return the aproximate sqrt
+ * Solution in ANSI C
+ *
+ * y^2 = x
+ * 2y^2 = x + y^2
+ * y = (x + y^2)/2y 
+ *
+ * compile and the paremeter must be the number
+ * Created by Sergio Baez on 8/24/13
+ * https://github.com/sabs231
+ */
+
 #include 	<stdio.h>
 #include 	<stdlib.h>
 

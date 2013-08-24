@@ -1,3 +1,13 @@
+/*
+ * Implement an algorithm to determine if a string has all unique characters.
+ * What if you cannot use additional data structures?
+ *
+ * Solution implemented in ANSIC
+ *
+ * Created by Sergio Baez on 8/24/13
+ * https://github.com/sabs231
+ */
+
 #include 			<stdio.h>
 
 typedef struct 	dic 
