@@ -1,3 +1,8 @@
+/*
+ *
+ *Describe how you could use a single array to implement three stacks.
+ * */
+
 #include 		<iostream>
 #include 		<string.h>
 #include 		"3-1.hh"
