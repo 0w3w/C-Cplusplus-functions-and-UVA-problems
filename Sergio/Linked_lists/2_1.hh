@@ -16,4 +16,5 @@ class 	Node
 		void 	clearList();
 		void 	deleteNode(Node *temp);
 		Node 	*remove(Node *head);
+		void 	removeWithHash();
 }; 
